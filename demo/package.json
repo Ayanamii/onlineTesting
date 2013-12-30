@@ -1,0 +1,14 @@
+{
+  "name":"our-demo",
+  "main":"index.html",
+  "description": "demo app of node-webkit",         /* APP的简单描述 */
+  "version": "0.1.0",                               /* APP的版本号 */
+  "keywords": [ "demo", "node-webkit" ],            /* APP的关键字，搜索APP时用到 */
+  "window": {                                       /* APP的窗口属性 */
+    "icon": "link.png",                           /* APP图标（windows下，状态栏上可见） */
+    "toolbar": true,                              /* 是否显示工具栏 */
+    "width": 800,                                 /* 窗口初始化大小 */
+    "height": 500,
+    "frame": true                                 /* 是否显示外窗体，如最大化、最小化、关闭按钮 */
+  }
+}
